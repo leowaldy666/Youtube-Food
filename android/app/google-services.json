@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "719008261360",
+    "project_id": "ventas-5ebb8",
+    "storage_bucket": "ventas-5ebb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719008261360:android:ec81d2208eff9a6bff8e35",
+        "android_client_info": {
+          "package_name": "com.dat.contas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719008261360-ihpl0tgk9s2tij96n7153461aafv7iph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnKMfJqDfmoNEKUhtIWmWchJFfu5Yolbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719008261360-ihpl0tgk9s2tij96n7153461aafv7iph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719008261360:android:8a71137981555b9bff8e35",
+        "android_client_info": {
+          "package_name": "com.example.sales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719008261360-ngm18qfm07pd6ccrgbq713bknblhtqkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sales",
+            "certificate_hash": "193a774a5d80a426b52e21a1dd5a185bc494e934"
+          }
+        },
+        {
+          "client_id": "719008261360-ihpl0tgk9s2tij96n7153461aafv7iph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnKMfJqDfmoNEKUhtIWmWchJFfu5Yolbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719008261360-ihpl0tgk9s2tij96n7153461aafv7iph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719008261360:android:8d19dcfb2ef9f853ff8e35",
+        "android_client_info": {
+          "package_name": "com.example.ventas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719008261360-13t0p3v59g2pjila8e3ppak86rkm2b1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ventas",
+            "certificate_hash": "193a774a5d80a426b52e21a1dd5a185bc494e934"
+          }
+        },
+        {
+          "client_id": "719008261360-ihpl0tgk9s2tij96n7153461aafv7iph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnKMfJqDfmoNEKUhtIWmWchJFfu5Yolbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719008261360-ihpl0tgk9s2tij96n7153461aafv7iph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
